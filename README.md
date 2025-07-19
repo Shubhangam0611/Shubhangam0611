@@ -1,10 +1,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=96A4FF&background=0CBEFF00&vCenter=true&width=700&height=40&lines=Hii+I'm+Shubhangam+from+TechWorld..%F0%9F%92%BB" alt="Typing SVG" /></a><hr>
 <h2 align = "left"> 🧑‍💻About Me:</h2>
 <div align = "left">
-🔭 Working as Software Developer.<br> 📚 Trying to find a way to live happily in this world.<br>🎯 To become a professional Full Stack Web Developer, contributing to impactful projects and continuously growing as a developer.<br>
-🏏 I love cricket playing or watching, I enjoy it all.<br>
-🏔️ I love traveling to the mountains for peace and inspiration.<br>
+🔭 Working as Software Developer.<br>
+🎯 To become a professional Full Stack Web Developer.<br>
 🎧 I enjoy listening to music, when I’m not coding.
+🏏 I love cricket playing or watching, I enjoy it all.<br>
+🏔️ I love traveling to the mountains for peace & inspiration.<br>
+📚 Trying to find a way to live happily in this world.<br>
+  
 </div>
 <h2 align = "left">🌐Socials:</h2>
 <div align = "left">
