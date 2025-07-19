@@ -3,7 +3,7 @@
 <div align = "left">
 🔭 Working as Software Developer.<br>
 🎯 To become a professional Full Stack Web Developer.<br>
-🎧 I enjoy listening to music, when I’m not coding.
+🎧 I enjoy listening to music, when I’m not coding.<br>
 🏏 I love cricket playing or watching, I enjoy it all.<br>
 🏔️ I love traveling to the mountains for peace & inspiration.<br>
 📚 Trying to find a way to live happily in this world.<br>
